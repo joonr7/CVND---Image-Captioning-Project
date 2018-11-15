@@ -1,5 +1,17 @@
 # CVND---Image-Captioning-Project
 
+# Result
+
+## Loss graph
+![Loss-graph](images/loss-graph.png)
+Num_of_epochs = 1, loss function = adam
+
+Read more settings [here](2_Training.ipynb).
+
+## Inferences
+Inferences are shown [here](3_Inference.ipynb).
+
+
 # Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
 ```
